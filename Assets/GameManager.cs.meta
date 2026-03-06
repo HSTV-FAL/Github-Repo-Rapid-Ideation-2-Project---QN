@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2956900964fa1ee40bdd915681efe565
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - melonPrefab: {fileID: 8065805642481795479, guid: d4e64d67b866f604c978038c5fadab50, type: 3}
+  - spawnPoint: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
